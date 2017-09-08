@@ -1,5 +1,5 @@
 Name: James M. Allen
-Fav Color: green
+Fav Color: green and blue
 
 Ingredients: 1 Hotdog, 1 bun, ketchup, mustard
 Instructions: roll one hot dog in a paper towel and place in the microwave for
